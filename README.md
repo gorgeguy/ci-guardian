@@ -244,4 +244,4 @@ When a fix cannot be generated, CI Guardian will still notify your team via Slac
 
 ## License
 
-MIT
+Apache 2.0 - See [LICENSE](LICENSE) for details.
